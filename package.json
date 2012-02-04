@@ -1,0 +1,15 @@
+{
+  "author": "Eber",
+  "name": "myfirstNode",
+  "description": "This is to test a fist NOde module/server",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "~v0.5.4-pre"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
